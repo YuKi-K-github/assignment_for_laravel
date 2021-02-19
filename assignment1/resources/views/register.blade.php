@@ -1,4 +1,4 @@
-@extends('layouts.layouts')
+<!-- @extends('layouts.layouts')
 
 @section('contents')
 <div class="row no-gutters">
@@ -31,4 +31,4 @@
         </div>
     </div>
 </div>
-@endsection
+@endsection -->
