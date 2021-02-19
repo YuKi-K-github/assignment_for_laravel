@@ -13,5 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::resource('/login', 'ResourceController');
-// Route::resource('/home', 'HomeController');
+Route::resource('/login', 'ResourceController');
+Route::resource('/home', 'HomeController');

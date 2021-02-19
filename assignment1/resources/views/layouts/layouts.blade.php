@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
@@ -28,4 +28,4 @@
         </div>
         <script src="js/login.js"></script>
     </body>
-</html> -->
+</html>
