@@ -54,7 +54,7 @@ class ResourceController extends Controller
 
         // $user->save();
 
-        return view('/home', compact('name'));
+        return view('home', compact('name'));
     }
 
     
